@@ -1,0 +1,42 @@
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .brand-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .brand-logo img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    transition: width 0.5s;
+  }
+  
+  .search-bar input {
+    border: none;
+    outline: none;
+  }
+  
+  .menu-toggle {
+    cursor: pointer;
+  }
+  
+  .sidebar {
+    /* Sidebar styles */
+  }
+  

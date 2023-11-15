@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "FBGL MINISTRIES APP",
+      "technology": "Mobile App",
+      "description": "This is an Android App for a church",
+      "githubLink": "https://github.com/benayaram/FBGL-MINISTRIES-APP",
+      "linkedinLink": "https://www.linkedin.com/in/rekha-benayaram/",
+      "developer": "Benayaram Rekha"
+    },
+    {
+      "id": 2,
+      "title": "Latha Digitals App",
+      "technology": "Mobile App",
+      "description": "This is an Android App for a photography studio",
+      "githubLink": "https://github.com/benayaram/Latha_digitals",
+      "linkedinLink": "https://www.linkedin.com/in/rekha-benayaram/",
+      "developer": "Benayaram Rekha"
+    },
+    {
+      "id": 3,
+      "title": "File Structure Generator",
+      "technology": "Java Script Project",
+      "description": "This project generates folders and files in local storage",
+      "githubLink": "https://github.com/benayaram/BuildStructo-File-structure-generator",
+      "linkedinLink": "https://www.linkedin.com/in/rekha-benayaram/",
+      "developer": "Benayaram Rekha"
+    },
+    {
+      "id": 4,
+      "title": "BENAI -AI Project",
+      "technology": "Artificial Intelligence",
+      "description": "This is an AI-like Software as a Service (SaaS)",
+      "githubLink": "https://github.com/benayaram/BENAI_new",
+      "linkedinLink": "https://www.linkedin.com/in/rekha-benayaram/",
+      "developer": "Benayaram Rekha"
+    },
+    {
+      "id": 5,
+      "title": "Project 5",
+      "technology": "Unknown",
+      "description": "Description of Project 5",
+      "githubLink": "https://github.com/your_username/project5",
+      "linkedinLink": "https://www.linkedin.com/your_project5_post_link",
+      "developer": "Developer 5"
+    }
+]

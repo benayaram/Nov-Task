@@ -1,0 +1,49 @@
+.project-grid {
+  margin-top: 20px;
+}
+
+.buttongroup {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  /* margin-top: 10px; */
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardpadding{
+  margin: 12px;
+  margin-top: 12px;
+}
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border-color: gold;
+}
+
+.card-details {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Add more styles as needed */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-bottom: 20px;
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+  transform: scale(1.05); /* Scale up on hover */
+}
+
